@@ -1,14 +1,10 @@
-# QuickaddExpenses
+# Quick Add Expenses
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
+Angular web application providing a simple interface for adding daily expenses to a Google Sheets budget spreadsheet.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
